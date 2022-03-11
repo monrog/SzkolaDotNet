@@ -190,7 +190,7 @@ namespace tydz2zad7
                     }
                     else
                     {
-                        Console.WriteLine($"Nie można dzielić przez 0");
+                        Console.WriteLine("Nie można dzielić przez 0");
                     }
                     break;
                 default:
