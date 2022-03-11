@@ -1,7 +1,3 @@
-*.o
-*.ko
-*.obj
-*.elf
-*.bin
-*.vs
-*.sln
+bin
+vs
+sln
