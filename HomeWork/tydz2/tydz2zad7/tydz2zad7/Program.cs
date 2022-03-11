@@ -1,6 +1,6 @@
 ﻿
 using System;
-namespace tydz2zad4
+namespace tydz2zad7
 {
     public class Program
     {
